@@ -1,0 +1,23 @@
+,Sn,Emp First Name,Employee last name,Unnamed: 3,City,Full name,left,Right,mid,Todays Date,Todays Date and Time,Date(),Time(),Salary increment,Percentage,RoundUP,RoundDown,Promotions,Salary Increment
+0,1.0,Ram,A,20000,Bangalore,RamA,R,m,am,9/17/2025,9/17/2025 23:15:28,9/9/2025,10:31:00 AM,1000.0,74.222,74.3,74.2,promoted,2000.0
+1,2.0,Alex,F,45000,Delhi,AlexF,A,x,lex,9/17/2025,9/17/2025 23:15:28,9/9/2025,10:31:00 AM,1000.0,65.22,65.3,65.2,promoted,4500.0
+2,3.0,Salamaan,Khan,50000,Patna,SalamaanKhan,S,n,ala,9/17/2025,9/17/2025 23:15:28,9/9/2025,10:31:00 AM,1000.0,84.4,84.4,84.4,promoted,5000.0
+3,4.0,Yograj,Gupla,15000,Punjab,YograjGupla,Y,j,ogr,9/17/2025,9/17/2025 23:15:28,9/9/2025,10:31:00 AM,1000.0,74.222,74.3,74.2,not promoted),1500.0
+4,5.0,Krish,Sharma,10000,Delhi,KrishSharma,K,h,ris,9/17/2025,9/17/2025 23:15:28,9/9/2025,10:31:00 AM,1000.0,65.22,65.3,65.2,not promoted),1000.0
+5,6.0,Salika,O,45000,Mumbai,SalikaO,S,a,ali,9/17/2025,9/17/2025 23:15:28,9/9/2025,10:31:00 AM,1000.0,85.4,85.4,85.4,promoted,4500.0
+6,7.0,Pooja,Kumari,20000,Chennai,PoojaKumari,P,a,ooj,9/17/2025,9/17/2025 23:15:28,9/9/2025,10:31:00 AM,1000.0,74.222,74.3,74.2,promoted,2000.0
+7,8.0,Pratiksha,Sing,50000,Pune,PratikshaSing,P,a,rat,9/17/2025,9/17/2025 23:15:28,9/9/2025,10:31:00 AM,1000.0,65.22,65.3,65.2,promoted,5000.0
+8,9.0,Komal,Khan,80000,Madurai,KomalKhan,K,l,oma,9/17/2025,9/17/2025 23:15:28,9/9/2025,10:31:00 AM,1000.0,85.4,85.4,85.4,promoted,8000.0
+9,10.0,ganeesh,Sharma,66000,Ayodhya,ganeeshSharma,g,h,ane,9/17/2025,9/17/2025 23:15:28,9/9/2025,10:31:00 AM,1000.0,85.4,85.4,85.4,promoted,6600.0
+10,,,,,,,,,,,,,,,,,,,0.0
+11,,,,,,,,,,,,,,,,,,,0.0
+12,,,,,,,,,,,,,,,,,,,
+13,,,TotalSalary,401000,Person from bangalore,1,,,,,,,,,,,,,
+14,,,Average Salary,40100,[person from delhi,2,,,,,,,,,,,,,
+15,,,Average Salary,80000,,,,,,,,,,,,,,,
+16,,,Average Salary,10000,,,,,,,,,,,,,,,
+17,,,,,,,,,,,,,,,,,,,
+18,,,,,,,,,,,,,,,,,,,
+19,,,,,,,,,,,,,,,,,,,
+20,,,,Komal,,,,,,,,,,,,,,,
+21,,,Chart,,,,,,,,,,,,,,,,
